@@ -1,5 +1,5 @@
 
-# _Lines of Play_ – an AR Experiment with Dominoes
+# _Lines of Play_ – Dominoes but AR
 
 <p float="center">
   <img src="Images/lines_dominoes.gif" width="33.0%" />
